@@ -1,1 +1,5 @@
+hi <<<<<<< HEAD
 hi
+=======
+hi bye
+>>>>>>> first

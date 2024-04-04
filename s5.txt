@@ -1,1 +1,5 @@
+hello<<<<<<< HEAD
 hello
+=======
+hi
+>>>>>>> first
